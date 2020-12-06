@@ -33,6 +33,12 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"meetingsmeeting"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -69,6 +75,12 @@
          "id":5,
          "name":"ordi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/wpadvancedads.com"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
