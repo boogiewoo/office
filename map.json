@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wpadvancedads.com"
+                 "value":"https:\/\/wpadvancedads.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
